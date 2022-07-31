@@ -101,7 +101,7 @@ public class main extends JFrame {
 
         upperPanel = new JPanel();
         JLabel imagelabel = new JLabel();
-        imagelabel.setIcon(new ImageIcon("GUIAPP/map.jpg"));
+        imagelabel.setIcon(new ImageIcon("GUIAPP/city.png"));
         upperPanel.setLayout(new BorderLayout());
         upperPanel.add(imagelabel);
 //        upperPanel.setBounds(0,0,1920,1080);
